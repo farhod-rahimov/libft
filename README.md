@@ -6,4 +6,4 @@ BUILD libft ``make bonus``
 
 USAGE ``gcc your_files.c libft.a``
 
-in ``your_files.c`` where is ``libft`` used you should import ``libft.h``
+in ``your_files.c`` where ``libft`` is used you should import ``libft.h``
