@@ -1,6 +1,6 @@
 # libft
 
-``libft`` is a library where some functions of ``c`` library are reimplemented
+``libft`` is a library where some functions of ``c`` libraries are reimplemented
 
 BUILD libft ``make bonus``
 
